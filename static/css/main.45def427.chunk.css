@@ -1,0 +1,2 @@
+.GameOfLife__cells,.GameOfLife__column{display:-webkit-flex;display:flex}.GameOfLife__column{-webkit-flex-direction:column;flex-direction:column}.GameOfLife__cell{width:20px;height:20px;border:1px solid silver}.GameOfLife__cell--alive{background-color:#000}.GameOfLife__cell--dead{background-color:#fff}.GameOfLife__startGameButton{margin-bottom:6px}
+/*# sourceMappingURL=main.45def427.chunk.css.map */
